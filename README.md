@@ -22,5 +22,10 @@
   ```
 
 3. Clone Repositori
+   ```bash
+   git clone https://github.com/Yar00myr/Fileprocessing-hw
    ```
+   or 
+   ```bash
+   git clone https://github.com/Yar00myr/Fileprocessing-hw.git
    ```
