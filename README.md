@@ -29,3 +29,10 @@
    ```bash
    git clone https://github.com/Yar00myr/Fileprocessing-hw.git
    ```
+
+4. Install all libraries:
+   ```powershell
+   pip install "fastapi[standard]"   
+   ```
+
+5. Run in `main.py`
